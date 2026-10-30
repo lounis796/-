@@ -1,0 +1,20 @@
+- [x] Rendre les six photos fixes modifiables depuis l’administration.
+- [x] Vérifier l’enregistrement, le retrait et l’affichage des photos, y compris celles importées.
+- [x] Améliorer la boutique et l’administration sur téléphone.
+- [x] Enrichir les statistiques avec les sources de visites et l’origine des clients.
+- [x] Ajouter un accès manager limité à la boutique, contrôlé par l’admin.
+- [x] Autoriser et tester la suppression uniquement des commandes annulées.
+- [x] Dans « Notre histoire », garder la photo à gauche et le texte à droite dans les trois langues.
+- [x] Corriger le retrait des photos dans tous les onglets et sur la boutique après enregistrement.
+- [x] Corriger les interrupteurs et colorer l’ajout d’image ; vérifier sur téléphone et ordinateur.
+- [x] Ajouter des packs personnalisables par produit avec activation et désactivation dans l’admin.
+- [x] Vérifier les prix des packs dans le panier et les commandes, ainsi que l’affichage sur téléphone.
+- [x] Ajouter et vérifier le choix des offres dans le formulaire de commande avec recalcul du total.
+- [x] Tester site et admin sur ordinateur, tablette, téléphone ; retouches UX/UI ; traduction automatique FR → EN/AR.
+- [x] Simplifier les réglages des packs et vérifier les offres séparées par produit dans la commande.
+- [x] Simplifier et vérifier l’accès manager avec son email personnel et le mot de passe fourni par l’administrateur.
+- [x] Retirer et tester l’absence d’email de réinitialisation lors de l’attribution d’accès ou du remplacement de mot de passe manager.
+- [ ] Envoyer un email d’information avec lien de connexion à chaque accès accordé ou mot de passe remplacé — bloqué : domaine d’envoi non configuré.
+- [ ] Ajouter les notifications des nouvelles commandes et messages pour l’administrateur et les managers autorisés — bloqué : domaine d’envoi non configuré.
+- [ ] Envoyer à chaque client un email récapitulatif à l’adresse saisie après l’enregistrement de sa commande — bloqué : domaine d’envoi non configuré.
+- [x] Vérifier les produits, photos, articles et médailles visibles dans le HTML dès l’ouverture, sans attendre les scripts.
